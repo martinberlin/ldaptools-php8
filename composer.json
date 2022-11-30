@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.3",
         "chadsikorra/php-simple-enum": "^1.0",
         "symfony/yaml": "^6.1",
         "symfony/event-dispatcher": "^6.1",
