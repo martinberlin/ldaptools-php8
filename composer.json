@@ -1,5 +1,5 @@
 {
-    "name": "ldaptools-php8",
+    "name": "ldaptools/ldaptools-php8",
     "type": "library",
     "description": "LdapTools is a feature-rich LDAP library for PHP 7.3+",
     "keywords": [
