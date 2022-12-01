@@ -22,7 +22,7 @@
         "chadsikorra/php-simple-enum": "^1.0",
         "symfony/yaml": "^5",
         "symfony/event-dispatcher": "^5",
-        "ramsey/uuid": "^4.6"
+        "ramsey/uuid": "^4"
     },
     "suggest": {
         "tedivm/stash": "Provides the cache_type 'stash' to help increase performance.",
